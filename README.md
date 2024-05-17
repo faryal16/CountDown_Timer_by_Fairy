@@ -30,7 +30,7 @@
   if you wanna execute via CLI ,use the npx <i><b>"npx countdown_timer_by_fairy"</b></i>
 
   <h2>Linkedin account🔗</h2>
-  to check out my application visit my linkedin post<a href=" https://www.linkedin.com/posts/faryal-junaid-06780b2b4_typescript-softwareengineering-learninganddevelopment-activity-7197236671724077056/">click</a>
+  to check out my application visit my linkedin post<a href="https://www.linkedin.com/feed/update/urn:li:activity:7197127120697925634/">click</a>
 
   <h2>License📜</h2>
   this project is lincensed under the <b>"ISC</b>.
